@@ -1,4 +1,4 @@
-# Homeowrk
+# Homework
 
 This will be the repo that we will push and pull from daily to further grasp the Git process
 
