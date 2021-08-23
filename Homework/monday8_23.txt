@@ -1,3 +1,12 @@
+
+Hello my name is: Serina
+My favorite color is: Blue
+My favorite animal is: Whale
+
+On a scale of 1 - 10 my confidence on Git is: 2
+
+My goal for this week is: Study like i've never studied before
+
 Hello my name is: Mar'Kez
 My favorite color is: Green
 My favorite animal is: Wolves
@@ -5,3 +14,4 @@ My favorite animal is: Wolves
 On a scale of 1 - 10 my confidence on Git is: 8
 
 My goal for this week is: Becoming more fluent with the commands
+
