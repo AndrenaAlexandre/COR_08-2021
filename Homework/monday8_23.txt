@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+
+Hello my name is: Armoni Tigner
+My favorite color is: Blue 
+My favorite animal is: Cheetah 
+
+On a scale of 1 - 10 my confidence on Git is: 9
+
+My goal for this week is:master whatever we learn this week. or come close to it 
+
 
 pwd Hello my name is: Debbie       
 My favorite color is: Yellow
@@ -68,7 +76,7 @@ My goal for this week is: Get better at Git.
 
 
 
-=======
+
 Hello my name is: Morrese
 My favorite color is: Green
 My favorite animal is: Lion
@@ -76,4 +84,4 @@ My favorite animal is: Lion
 On a scale of 1 - 10 my confidence on Git is: 7
 
 My goal for this week is: Get git and Python down 100%
->>>>>>> refs/remotes/origin/Morrese
+
