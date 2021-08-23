@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pwd Hello my name is: Debbie       
 My favorite color is: Yellow
 My favorite animal is: Cheetah 
@@ -5,3 +6,53 @@ My favorite animal is: Cheetah
 On a scale of 1 - 10 my confidence on Git is: 5
 
 My goal for this week is: To study python and Git
+=======
+
+Hello my name is: Jeremy 
+My favorite color is:Red
+My favorite animal is:Tiger/Horse
+
+On a scale of 1 - 10 my confidence on Git is:6.5
+
+My goal for this week is:Learn more and gain 100% knowledge of what weve done so far
+
+
+Hello my name is: Christopher Ross
+My favorite color is: Red
+My favorite animal is: Grey Wolf
+
+On a scale of 1 - 10 my confidence on Git is: 8
+
+My goal for this week is:
+Get better at creating my own original python code.
+
+
+pwd Hello my name is: Debbie        
+My favorite color is: Yellow
+My favorite animal is: Cheetah 
+
+On a scale of 1 - 10 my confidence on Git is: 5
+
+My goal for this week is: To study python and Git
+
+
+Hello my name is: Ashley Peart
+My favorite color is: Black
+My favorite animal is: Don't have a favorite
+
+On a scale of 1 - 10 my confidence on Git is: 8
+
+My goal for this week is: to do my best
+
+
+Hello my name is: Ashley Savage
+My favorite color is: Black
+My favorite animal is: Dog
+
+On a scale of 1 - 10 my confidence on Git is: 7
+
+My goal for this week is: Get better at Git.
+
+
+
+>>>>>>> main
