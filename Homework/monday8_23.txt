@@ -1,7 +1,9 @@
-Hello my name is:
-My favorite color is:
-My favorite animal is:
+Hello my name is: Ashley
+My favorite color is: Purple
+My favorite animal is: Dogs
 
-On a scale of 1 - 10 my confidence on Git is:
+On a scale of 1 - 10 my confidence on Git is: 5
 
-My goal for this week is:
+My goal for this week is: To understand the concept and learn
+ all the commands on github. I also want to practice cloning 
+ docutments and downloadeing projects and navigating github all together.
