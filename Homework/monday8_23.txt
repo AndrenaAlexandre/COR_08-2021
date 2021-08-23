@@ -1,4 +1,14 @@
 
+Hello my name is: Christopher Ross
+My favorite color is: Red
+My favorite animal is: Grey Wolf
+
+On a scale of 1 - 10 my confidence on Git is: 8
+
+My goal for this week is:
+Get better at creating my own original python code.
+
+
 pwd Hello my name is: Debbie        
 My favorite color is: Yellow
 My favorite animal is: Cheetah 
