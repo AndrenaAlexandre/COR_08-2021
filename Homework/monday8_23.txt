@@ -1,4 +1,13 @@
 
+Hello my name is: Jeremy 
+My favorite color is:Red
+My favorite animal is:Tiger/Horse
+
+On a scale of 1 - 10 my confidence on Git is:6.5
+
+My goal for this week is:Learn more and gain 100% knowledge of what weve done so far
+
+
 Hello my name is: Christopher Ross
 My favorite color is: Red
 My favorite animal is: Grey Wolf
@@ -34,5 +43,6 @@ My favorite animal is: Dog
 On a scale of 1 - 10 my confidence on Git is: 7
 
 My goal for this week is: Get better at Git.
+
 
 
