@@ -20,3 +20,9 @@ Christopher Ross: What did the pirate say on his 80th birthday? Aye Matey!!
 
 Jeremy: Why did the chicken cross the road? To get to the other side!!
 
+<<<<<<< HEAD
+
+Morrese: I invented a new word!    Plagiarism!
+
+=======
+>>>>>>> main
