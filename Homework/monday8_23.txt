@@ -1,4 +1,4 @@
-pwd Hello my name is: Debbie        
+pwd Hello my name is: Debbie       
 My favorite color is: Yellow
 My favorite animal is: Cheetah 
 
