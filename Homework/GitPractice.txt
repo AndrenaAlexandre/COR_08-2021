@@ -2,6 +2,17 @@
 On this assingment I need you to write your name and then best joke you have. 
 You are then going to add, commit and push your changes. Let's start:
 
+<<<<<<< HEAD
 Andrena: Are you an artist? You could have fooled me by the way you DREW ME in! Ahhhhhhhh
 
 Serina Why did the teddy bear skip out on dessert when she was on a date? She was stuffed! 
+=======
+
+Andrena: Are you an artist? You could have fooled me by the way you DREW ME in! Ahhhhhhhh
+
+DeBorah: Why do we tell actors to "break a leg?" Because every play has a cast. 
+
+
+Christopher Ross: What did the pirate say on his 80th birthday? Aye Matey!!
+
+>>>>>>> e5470640bf2895917b1308b148c6d98a26d56cf8
