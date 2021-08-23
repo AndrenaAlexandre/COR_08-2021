@@ -4,4 +4,4 @@ My favorite animal is:Tiger/Horse
 
 On a scale of 1 - 10 my confidence on Git is:6.5
 
-My goal for this week is:Learn more and gain 100% knowledge of what weve done so far.
+My goal for this week is:Learn more and gain 100% knowledge of what weve done so far
