@@ -85,3 +85,14 @@ On a scale of 1 - 10 my confidence on Git is: 7
 
 My goal for this week is: Get git and Python down 100%
 
+
+
+
+
+Hello my name is: Bryhan Alonzo
+My favorite color is: Green
+My favorite animal is: Chupacabra
+
+On a scale of 1 - 10 my confidence on Git is: 5
+
+My goal for this week is: To understand and comprehend GIT and really knoew how to pull and merge branches.
